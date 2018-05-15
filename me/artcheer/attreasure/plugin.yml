@@ -1,0 +1,12 @@
+name: AT_Treasure
+main: me.artcheer.attreasure.main.ATTreasure
+author: Artcheer
+version: 1.0
+
+
+commands:
+    att:
+        description: Main Command
+    attreasure:
+        description: Main Command
+

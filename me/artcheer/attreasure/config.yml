@@ -1,0 +1,16 @@
+# Plugin AT_Treasure, Desenvolvido por @Artcheer
+# Versão da Config: 1.0
+#
+
+#Numero de Minutos entre uma dica do evento e outra.
+DelayDicas: 1
+#Numero de Minutos entre uma chamada do evento e outra.
+DelayChamada: 1 
+# Minimo de Participantes para iniciar o evento
+MinimoParticipantes: 1
+
+# Location's - Não Altere por aqui.
+Location:
+    Lobby: []
+    Entrada: []
+    Saida: []

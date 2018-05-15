@@ -1,0 +1,33 @@
+Messages:
+    Tag: '&3[AT_Treasure]&f '
+    Evento:
+        Entrou: '{Player} entrou no Evento!'
+        Saiu: '{Player} Saiu do Evento!'
+        SemEvento: 'O Evento Treasure não está acontecendo no momento!'
+        Cancelado: 'O Evento Treasure foi Cancelado!'
+        CanceladoParticipantes: 'Sem Participantes suficientes, Evento Treasure Cancelado!'
+        JaEstaNoEvento: 'Você já está no Evento!'
+        NaoEstaNoEvento: 'Você não está no Evento'
+        JaIniciado: 'Evento já foi iniciado!'
+        EmAndamento: 'Evento está em andamento, não é possível entrar agora!'
+        Chamada:
+            - '                                        '
+            - '&6» &fEvento &bTreasure &ffoi iniciado!'
+            - '&6» &fPara Participar use &c/att entrar'
+            - '&6» &fO Evento começa em &c{Num} &fChamadas'
+            - '                                        '
+        Dicas:
+            - 'O Baú se encontra no Bioma {Biome}'
+            - 'A Posição X do baú é {X}'
+            - 'A Posição Y do baú é {Y}'
+            - 'A Posição Z do baú é {Z}'
+    Outros:
+        SemTeleport: '&cTeleportes não são permitidos durante o Evento!'
+        SemPermissao: '&cVocê não tem permissão para isso!'
+        DeathMsg: '&2O Jogador &6&o{Player} &2Morreu durante o Evento e for desclassificado'
+        WinnerMsg: 'Parabéns &c{Player} &fVocê venceu o Evento Treasure, você tem 2 min para retirar o prêmio'
+        WinnerMsgGlobal:
+            - 'Evento Finalizado!'
+            - 'O(a) Vencedor(a) do Evento Treasure foi o(a) {Player}'
+            
+        
