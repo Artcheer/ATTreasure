@@ -1,2 +1,2 @@
 # ATTreasure
-Plugin
+Plugin para Minecraft 1.8
