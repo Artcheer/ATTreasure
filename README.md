@@ -8,4 +8,5 @@ O baú do evento é indestrutivel, e não pode ser burlado para pegar os itens s
 Post com mais detalhes em: https://gamersboard.com.br/topic/51563-projeto-free-attreasure-caça-tesouro-1ºplugin/
 
 =====================================================================
+
  O plugin atualmente está descontinuado, essa versão pode apresentar alguns bugs e instabilidades, o Author ainda não sabe quando irá corrigir os bugs e atualizar para uma versão mais recente, caso queira usar parte desse código entre em contato comigo no discord: Artcheer#2814
